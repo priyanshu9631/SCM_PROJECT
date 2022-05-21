@@ -7,7 +7,7 @@
 
 //Output : 
 //Element found at index 2 
-//creating pull request
+//creating pull request .
 
 
 #include <iostream>
